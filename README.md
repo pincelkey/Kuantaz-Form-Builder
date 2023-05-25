@@ -33,6 +33,10 @@ Build the application for production:
 npm run build
 ```
 
+```bash
+npm run start
+```
+
 Locally preview production build:
 
 ```bash
